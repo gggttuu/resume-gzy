@@ -37,3 +37,15 @@
 ├──my_photo.jpg   #简历照片
 └── README.md     # 项目说明文档（当前文件）
 
+
+## 本地运行方式
+
+1.将仓库克隆或下载到本地：
+
+ - 直接点击 GitHub 右侧的 Code → Download ZIP，解压即可。
+
+2.使用浏览器打开 index.html：
+
+ - 双击 index.html，或在浏览器中拖入文件。
+
+3.（可选）使用 VS Code + Live Server 插件可以获得自动刷新效果。
